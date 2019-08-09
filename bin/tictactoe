@@ -4,7 +4,4 @@ require 'pry'
 
 require_relative '../lib/tic_tac_toe.rb'
 
-
-initialize(board = @board)
-
 play(board = @board)
