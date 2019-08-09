@@ -8,4 +8,4 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 initialize(board)
 
-self.play(board = @board)
+play(board = @board)
